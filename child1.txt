@@ -1,3 +1,5 @@
 child1 repo
 
 add message child1 remote
+
+add message child1 local
